@@ -8,5 +8,10 @@ namespace GitHub_Collaboration_Practice
 {
     internal class Student011
     {
+        
+        public static void HelloWorld()
+        {
+        
+        }
     }
-}
+} 
